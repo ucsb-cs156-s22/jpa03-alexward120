@@ -2,7 +2,7 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-alexward120/branch/main/graph/badge.svg?token=bfmuzSyeHz)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-alexward120)
 
-Repo Link: https://github.com/ucsb-cs156-s22/jpa03-alexward120/tree/main/docs
+Repo Link: https://github.com/ucsb-cs156-s22/jpa03-alexward120/tree/main
 
 Heroku Link: https://jpa03-alexanderward.herokuapp.com
 
