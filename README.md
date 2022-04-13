@@ -1,4 +1,4 @@
-# demo-spring-react-example-v2: dsre-v2
+# jpa03-alexward120
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-alexward120/branch/main/graph/badge.svg?token=bfmuzSyeHz)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-alexward120)
 
